@@ -1,0 +1,16 @@
+{
+  "name": "scratch-community",
+  "version": "1.0.0",
+  "description": "An open-source scratch community",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "author": "snxlife",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "md5": "^2.3.0"
+  }
+}
